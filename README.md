@@ -1,2 +1,4 @@
 # hello-world
-new hell world repository
+new hello world repository
+After we say hello to the world we 
+say hello to the universe
